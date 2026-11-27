@@ -1,0 +1,3 @@
+https://example.com
+example.org/path
+http://example.net

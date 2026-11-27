@@ -1,0 +1,9 @@
+# One proxy per line. Scheme optional - auto-detected when omitted.
+http://203.0.113.10:8080
+http://user:pass@203.0.113.11:8080
+socks5://203.0.113.12:1080
+socks5://user:secret@203.0.113.13:1080
+socks4://203.0.113.14:1080
+socks4a://203.0.113.15:1080
+203.0.113.16:3128
+203.0.113.17:1080:user:pass

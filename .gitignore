@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+output/
+sessions/
+*.egg-info/
+.pytest_cache/
+sitecheck-pro-*.zip
